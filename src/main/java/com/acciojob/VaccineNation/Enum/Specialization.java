@@ -5,5 +5,6 @@ public enum Specialization {
     RADIOLOGIST,
     NEUROLOGIST,
     CARDIOLOGIST,
-    DENTIST
+    DENTIST,
+    ORTHOPEDIC
 }

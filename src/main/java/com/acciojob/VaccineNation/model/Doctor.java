@@ -22,9 +22,10 @@ public class Doctor {
     private String name;
 
     private int age;
+
     @Enumerated(value = EnumType.STRING)
     private Gender gender;
+
     @Enumerated(value = EnumType.STRING)
     private Specialization specialization;
-
 }
